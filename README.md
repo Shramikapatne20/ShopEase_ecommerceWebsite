@@ -29,9 +29,12 @@ Frontend
 To run the project:
 
 cd frontend
+
 npm install
+
 npm start
 
 cd backend
+
 node server.js
 
