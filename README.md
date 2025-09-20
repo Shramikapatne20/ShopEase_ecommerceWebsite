@@ -26,11 +26,12 @@ Frontend
 - Multer for file uploads
 
 
+To run the project:
 
-cd backend
+cd frontend
 npm install
 npm start
 
-cd frontend
+cd backend
 node server.js
 
